@@ -9,7 +9,7 @@ body{
 min-height:100vh;
 display:flex;
 justify-content:center;
-align-items:center;
+align-items:flex-start;
 background:linear-gradient(160deg,#fff7fa,#fde8ef,#f7d9e4);
 overflow-y:auto;
 }
